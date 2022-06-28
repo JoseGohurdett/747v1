@@ -1,0 +1,1966 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+APP_747
+</name>
+</assembly>
+<members>
+<member name="T:APP_747.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Baño">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Break">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Capacitacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Colacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.FechaDerecha">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.FechaIzquierda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.FinDescanso">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.FInDescanso2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.iconGuardar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.iconGuardar2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Imagen_Cordial_Phone">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Imagen_Cordial_Phone1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.Imagen_Cordial_Phone2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.LogoMok">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:APP_747.My.Resources.Resources.pausar_llamada">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:APP_747.clsFuncionesComunes.edad(System.DateTime)">
+ <summary>
+ Calculo de edad exacta
+ </summary>
+ <param name="fecNacimiento"></param>
+ <returns>Devuelve edad segun dia, mes y año</returns>
+ <remarks></remarks>
+ 
+</member>
+<member name="M:APP_747.clsFuncionesComunes.edad(System.DateTime,System.Int16)">
+ <summary>
+ Establece si la Fec Nacimiento es mayor o igual a la Edad Minima
+ </summary>
+ <param name="fecNacimiento"></param>
+ <param name="EdadMin"></param>
+ <returns>Devuelve verdadero si la Fecha es mayor o igual a la edad minima </returns>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.clsFuncionesComunes.edad(System.DateTime,System.Int16,System.Int16)">
+ <summary>
+ Establece si la Fec Nacimiento esta entre la edad Minima y maxima
+ </summary>
+ <param name="fecNacimiento"></param>
+ <param name="EdadMin"></param>
+ <param name="EdadMax"></param>
+ <returns>Devuelve verdadero si la Fecha esta entre la edad minima y edad maxima</returns>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.clsFuncionesComunes.LimpiaFormilarioBenAdi">
+ <summary>
+ Realiza la limpieza de los controles de los formularios de beneficiario como adicionales
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.Buscar_Cliente">
+ <summary>
+ procedimiento para buscar cliente en la tabla cli
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.inicializarControlesGes">
+ <summary>
+ INICIALIZAMOS LOS CONTROLES PARA REGRABACION
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.inicializarControles">
+ <summary>
+ INICIALIZAMOS LOS CONTROLES VENTA
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.inicializar_controles_tab">
+ <summary>
+ inicializar controles de gestion en todos los tabs utilizados
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.Terminar">
+ <summary>
+ Metodo para registrar una venta al cual al cliente no se ha contactado y se da por terminada la gestion
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.ocultar_cmbopcion">
+ <summary>
+ metodo para hacer visible ciertos controles de el tab Motivo de llamado cuando el perfil sea de regrabador
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.AsignadatosCli">
+ <summary>
+ carga los datos a los controles del tab toma de datos
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.AsignadatosCliGes">
+ <summary>
+ metodo para cargar los datos en la toma de datos de regrabacion
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.ValidaInformacion">
+ <summary>
+ validamos la informacion en la toma de datos
+ </summary>
+ <returns></returns>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.Carga_adicionales">
+ <summary>
+ PROCEDIMIENTO PARA CARGAR LOS ADICIONALES EN LA GRILLA
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmVenta.Carga_Beneficiarios">
+ <summary>
+ PROCEDIMIENTO PARA CARGAR LOS BENEFICIARIOS EN LA GRILLA
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmBeneficiario.modificaBeneficiarioGrilla">
+ <summary>
+ Modificación de beneficiarios
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="M:APP_747.frmBeneficiario.eliminaBeneficiarioGrilla">
+ <summary>
+ metodo para eliminar un beneficiario de la grilla
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="T:APP_747.WSSNeoTel.WebService">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.#ctor">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Dessilenciar_ParticipanteCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.SaveRemoteImageCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.GetIpCountryCodeCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask00Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask01Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask02Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask03Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask04Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask05Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask06Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask07Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask08Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask09Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask10Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask11Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask12Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask13Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask14Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask15Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask16Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask17Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask18Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask19Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ExecuteTask20Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AddHostExceptionTelCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.RemoveHostExceptionTelCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AddInternetExceptionTelCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionTelCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AddHostExceptionWebCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.RemoveHostExceptionWebCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AddInternetExceptionWebCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionWebCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ReloadBlockedIncomingCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ReloadBlockedOutgoingCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Device_InsertCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Device_UpdateCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Device_DeleteCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CheckIdiomaCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.User_InsertCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.User_UpdateCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.User_DeleteCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.User_ChangePasswordCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.User_HasLicenseCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Update_CallerID_CampaignCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Update_CampaignCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.LoginCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.LogoutCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.PauseCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.UnpauseCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Login_CampaignCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Logout_CampaignCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_AvailableCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_UnavailableCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_ShowingContactCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.DialCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.UpdateContactCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.HangupCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.StartMonitorCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.StopMonitorCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AttendedTransferCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.BlindTransferCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AttendedTransferQueueCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.BlindTransferQueueCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.BlindTransferCampaignCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.JoinConferenceCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.InviteParticipantCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CancelInvitationCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.SendDTMFCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.PositionCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.KickAllCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.KickParticipantCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.MuteAllCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.MuteParticipantCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.UnmuteAllCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.UnmuteParticipantCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenApplicationStartCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenApplicationStopCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenStreamStartCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenStreamCloseCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenRecordStartCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenRecordStopCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.ScreenPacketReceivedCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Login_Campaign2Completed">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.AddScheduleCallCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CloseContactCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.DescansoCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Tiempo_AdministrativoCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Login_CampañaCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Logout_CampañaCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_DisponibleCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_No_DisponibleCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_Mostrando_ContactoCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CRM_Mostrando_Contacto_CRM_InternoCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.DiscarCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.CortarCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Iniciar_GrabacionCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Detener_GrabacionCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.PosicionCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Expulsar_TodosCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Expulsar_ParticipanteCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Silenciar_TodosCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Silenciar_ParticipanteCompleted">
+<remarks/>
+</member>
+<member name="E:APP_747.WSSNeoTel.WebService.Dessilenciar_TodosCompleted">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dessilenciar_Participante(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dessilenciar_ParticipanteAsync(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dessilenciar_ParticipanteAsync(System.String,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.SaveRemoteImage(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.SaveRemoteImageAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.SaveRemoteImageAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.GetIpCountryCode(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.GetIpCountryCodeAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.GetIpCountryCodeAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask00(System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask00Async(System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask00Async(System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask01(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask01Async(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask01Async(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask02(System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask02Async(System.Int32,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask02Async(System.Int32,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask03(System.Int32,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask03Async(System.Int32,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask03Async(System.Int32,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask04(System.Int32,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask04Async(System.Int32,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask04Async(System.Int32,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask05(System.Int32,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask05Async(System.Int32,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask05Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask06(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask06Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask06Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask07(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask07Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask07Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask08(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask08Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask08Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask09(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask09Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask09Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask10(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask10Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask10Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask11(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask11Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask11Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask12(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask12Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask12Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask13(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask13Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask13Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask14(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask14Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask14Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask15(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask15Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask15Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask16(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask16Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask16Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask17(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask17Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask17Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask18(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask18Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask18Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask19(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask19Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask19Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask20(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask20Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ExecuteTask20Async(System.Int32,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddHostExceptionTel(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddHostExceptionTelAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddHostExceptionTelAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveHostExceptionTel(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveHostExceptionTelAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveHostExceptionTelAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddInternetExceptionTel">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddInternetExceptionTelAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddInternetExceptionTelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionTel">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionTelAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionTelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddHostExceptionWeb(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddHostExceptionWebAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddHostExceptionWebAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveHostExceptionWeb(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveHostExceptionWebAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveHostExceptionWebAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddInternetExceptionWeb">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddInternetExceptionWebAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddInternetExceptionWebAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionWeb">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionWebAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.RemoveInternetExceptionWebAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ReloadBlockedIncoming">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ReloadBlockedIncomingAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ReloadBlockedIncomingAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ReloadBlockedOutgoing">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ReloadBlockedOutgoingAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ReloadBlockedOutgoingAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_Insert(System.String,System.String,System.String,System.DateTime,System.String,System.Boolean,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_InsertAsync(System.String,System.String,System.String,System.DateTime,System.String,System.Boolean,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_InsertAsync(System.String,System.String,System.String,System.DateTime,System.String,System.Boolean,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_Update(System.String,System.String,System.String,System.DateTime,System.String,System.Boolean,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_UpdateAsync(System.String,System.String,System.String,System.DateTime,System.String,System.Boolean,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_UpdateAsync(System.String,System.String,System.String,System.DateTime,System.String,System.Boolean,System.Int32,System.Int32,System.String,System.String,System.String,System.Int32,System.String,System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_Delete(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_DeleteAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Device_DeleteAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CheckIdioma">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CheckIdiomaAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CheckIdiomaAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_Insert(System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String,System.String,System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.DateTime,System.String,System.String,System.String,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_InsertAsync(System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String,System.String,System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.DateTime,System.String,System.String,System.String,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_InsertAsync(System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String,System.String,System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.DateTime,System.String,System.String,System.String,System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_Update(System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String,System.String,System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.DateTime,System.String,System.String,System.String,System.Int32,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_UpdateAsync(System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String,System.String,System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.DateTime,System.String,System.String,System.String,System.Int32,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_UpdateAsync(System.String,System.String,System.String,System.String,System.Boolean,System.Boolean,System.String,System.String,System.String,System.String,System.Boolean,System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.Int32,System.DateTime,System.String,System.String,System.String,System.Int32,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_Delete(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_DeleteAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_DeleteAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_ChangePassword(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_ChangePasswordAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_ChangePasswordAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_HasLicense(System.String,System.String,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_HasLicenseAsync(System.String,System.String,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.User_HasLicenseAsync(System.String,System.String,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Update_CallerID_Campaign(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Update_CallerID_CampaignAsync(System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Update_CallerID_CampaignAsync(System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Update_Campaign(System.Int32,System.Int32,System.Int32,System.Double)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Update_CampaignAsync(System.Int32,System.Int32,System.Int32,System.Double)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Update_CampaignAsync(System.Int32,System.Int32,System.Int32,System.Double,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.LoginAsync(System.String,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.LoginAsync(System.String,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.LogoutAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.LogoutAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Pause(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.PauseAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.PauseAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Unpause(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnpauseAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnpauseAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_Campaign(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_CampaignAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_CampaignAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout_Campaign(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout_CampaignAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout_CampaignAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Available(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_AvailableAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_AvailableAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Unavailable(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_UnavailableAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_UnavailableAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_ShowingContact(System.String,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_ShowingContactAsync(System.String,System.Int32,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_ShowingContactAsync(System.String,System.Int32,System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dial(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.DialAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.DialAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UpdateContact(System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.String,System.Boolean,System.DateTime,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UpdateContactAsync(System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.String,System.Boolean,System.DateTime,System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UpdateContactAsync(System.Int32,System.String,System.Int32,System.Int32,System.String,System.Int32,System.String,System.Boolean,System.DateTime,System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Hangup(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.HangupAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.HangupAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.StartMonitor(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.StartMonitorAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.StartMonitorAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.StopMonitor(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.StopMonitorAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.StopMonitorAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AttendedTransfer(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AttendedTransferAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AttendedTransferAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransfer(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AttendedTransferQueue(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AttendedTransferQueueAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AttendedTransferQueueAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferQueue(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferQueueAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferQueueAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferCampaign(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferCampaignAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.BlindTransferCampaignAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.JoinConference(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.JoinConferenceAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.JoinConferenceAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.InviteParticipant(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.InviteParticipantAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.InviteParticipantAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CancelInvitation(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CancelInvitationAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CancelInvitationAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.SendDTMF(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.SendDTMFAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.SendDTMFAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Position(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.PositionAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.PositionAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.KickAll(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.KickAllAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.KickAllAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.KickParticipant(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.KickParticipantAsync(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.KickParticipantAsync(System.String,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.MuteAll(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.MuteAllAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.MuteAllAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.MuteParticipant(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.MuteParticipantAsync(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.MuteParticipantAsync(System.String,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnmuteAll(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnmuteAllAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnmuteAllAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnmuteParticipant(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnmuteParticipantAsync(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.UnmuteParticipantAsync(System.String,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenApplicationStart">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenApplicationStartAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenApplicationStartAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenApplicationStop">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenApplicationStopAsync">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenApplicationStopAsync(System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenStreamStart(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenStreamStartAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenStreamStartAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenStreamClose(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenStreamCloseAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenStreamCloseAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenRecordStart(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenRecordStartAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenRecordStartAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenRecordStop(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenRecordStopAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenRecordStopAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenPacketReceived(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenPacketReceivedAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.ScreenPacketReceivedAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_Campaign2(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_Campaign2Async(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_Campaign2Async(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddScheduleCall(System.String,System.Int32,System.Int32,System.String,System.String,System.DateTime)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddScheduleCallAsync(System.String,System.Int32,System.Int32,System.String,System.String,System.DateTime)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.AddScheduleCallAsync(System.String,System.Int32,System.Int32,System.String,System.String,System.DateTime,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CloseContact(System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CloseContactAsync(System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CloseContactAsync(System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Descanso(System.String,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.DescansoAsync(System.String,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.DescansoAsync(System.String,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Tiempo_Administrativo(System.String,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Tiempo_AdministrativoAsync(System.String,System.Boolean)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Tiempo_AdministrativoAsync(System.String,System.Boolean,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_Campaña(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_CampañaAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Login_CampañaAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout_Campaña(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout_CampañaAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Logout_CampañaAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Disponible(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_DisponibleAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_DisponibleAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_No_Disponible(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_No_DisponibleAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_No_DisponibleAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Mostrando_Contacto(System.String,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Mostrando_ContactoAsync(System.String,System.Int32,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Mostrando_ContactoAsync(System.String,System.Int32,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Mostrando_Contacto_CRM_Interno(System.String,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Mostrando_Contacto_CRM_InternoAsync(System.String,System.Int32,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CRM_Mostrando_Contacto_CRM_InternoAsync(System.String,System.Int32,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Discar(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.DiscarAsync(System.String,System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.DiscarAsync(System.String,System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Cortar(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CortarAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CortarAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Iniciar_Grabacion(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Iniciar_GrabacionAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Iniciar_GrabacionAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Detener_Grabacion(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Detener_GrabacionAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Detener_GrabacionAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Posicion(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.PosicionAsync(System.String)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.PosicionAsync(System.String,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Expulsar_Todos(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Expulsar_TodosAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Expulsar_TodosAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Expulsar_Participante(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Expulsar_ParticipanteAsync(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Expulsar_ParticipanteAsync(System.String,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Silenciar_Todos(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Silenciar_TodosAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Silenciar_TodosAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Silenciar_Participante(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Silenciar_ParticipanteAsync(System.String,System.Int32,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Silenciar_ParticipanteAsync(System.String,System.Int32,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dessilenciar_Todos(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dessilenciar_TodosAsync(System.String,System.Int32)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.Dessilenciar_TodosAsync(System.String,System.Int32,System.Object)">
+<remarks/>
+</member>
+<member name="M:APP_747.WSSNeoTel.WebService.CancelAsync(System.Object)">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Authentication">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.Authentication.Username">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.Authentication.Password">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.Authentication.AnyAttr">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Dessilenciar_ParticipanteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.SaveRemoteImageCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.GetIpCountryCodeCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.GetIpCountryCodeCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.GetIpCountryCodeCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask00CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask00CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask00CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask01CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask01CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask01CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask02CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask02CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask02CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask03CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask03CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask03CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask04CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask04CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask04CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask05CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask05CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask05CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask06CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask06CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask06CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask07CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask07CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask07CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask08CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask08CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask08CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask09CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask09CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask09CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask10CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask10CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask10CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask11CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask11CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask11CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask12CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask12CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask12CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask13CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask13CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask13CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask14CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask14CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask14CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask15CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask15CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask15CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask16CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask16CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask16CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask17CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask17CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask17CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask18CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask18CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask18CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask19CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask19CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask19CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask20CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ExecuteTask20CompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.ExecuteTask20CompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AddHostExceptionTelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.RemoveHostExceptionTelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AddInternetExceptionTelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.RemoveInternetExceptionTelCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AddHostExceptionWebCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.RemoveHostExceptionWebCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AddInternetExceptionWebCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.RemoveInternetExceptionWebCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ReloadBlockedIncomingCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ReloadBlockedOutgoingCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Device_InsertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Device_UpdateCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Device_DeleteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CheckIdiomaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CheckIdiomaCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.CheckIdiomaCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.User_InsertCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.User_UpdateCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.User_DeleteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.User_ChangePasswordCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.User_HasLicenseCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.User_HasLicenseCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.User_HasLicenseCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Update_CallerID_CampaignCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Update_CallerID_CampaignCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.Update_CallerID_CampaignCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Update_CampaignCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Update_CampaignCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.Update_CampaignCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.LoginCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.LogoutCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.PauseCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.UnpauseCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Login_CampaignCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Logout_CampaignCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_AvailableCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_UnavailableCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_UnavailableCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.CRM_UnavailableCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_ShowingContactCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.DialCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.DialCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.DialCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.UpdateContactCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.HangupCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.StartMonitorCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.StopMonitorCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AttendedTransferCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.BlindTransferCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AttendedTransferQueueCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.BlindTransferQueueCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.BlindTransferCampaignCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.JoinConferenceCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.InviteParticipantCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CancelInvitationCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.SendDTMFCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.PositionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.PositionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.PositionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.KickAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.KickParticipantCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.MuteAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.MuteParticipantCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.UnmuteAllCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.UnmuteParticipantCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenApplicationStartCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenApplicationStopCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenStreamStartCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenStreamCloseCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenRecordStartCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenRecordStopCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.ScreenPacketReceivedCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Login_Campaign2CompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AddScheduleCallCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.AddScheduleCallCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.AddScheduleCallCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CloseContactCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.DescansoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Tiempo_AdministrativoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Login_CampañaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Logout_CampañaCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_DisponibleCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_No_DisponibleCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_Mostrando_ContactoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CRM_Mostrando_Contacto_CRM_InternoCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.DiscarCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.CortarCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Iniciar_GrabacionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Detener_GrabacionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.PosicionCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.PosicionCompletedEventArgs">
+<remarks/>
+</member>
+<member name="P:APP_747.WSSNeoTel.PosicionCompletedEventArgs.Result">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Expulsar_TodosCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Expulsar_ParticipanteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Silenciar_TodosCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Silenciar_ParticipanteCompletedEventHandler">
+<remarks/>
+</member>
+<member name="T:APP_747.WSSNeoTel.Dessilenciar_TodosCompletedEventHandler">
+<remarks/>
+</member>
+</members>
+</doc>

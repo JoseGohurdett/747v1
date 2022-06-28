@@ -1,0 +1,140 @@
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmDescanso.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmEsperaDescanso.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmExclusiones.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmVenta.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmAdicional.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmAnexos.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmBeneficiario.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmLogin.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.frmRegrabaciones.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.Resources.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Imagen\LogoCallsouth.bmp
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\APP_747.exe.config
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\APP_747.exe.manifest
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\APP_747.application
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\APP_747.exe
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\APP_747.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\APP_747.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\BI.dll
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Entidad.dll
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Dato.dll
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\BI.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\BI.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Entidad.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Entidad.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Dato.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\bin\Dato.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.exe.manifest
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.application
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.exe
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Venta\obj\Debug\APP_747.pdb
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Imagen\LogoCallsouth.bmp
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\APP_747.exe.config
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\APP_747.exe.manifest
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\APP_747.application
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\APP_747.exe
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\APP_747.pdb
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\APP_747.xml
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\BI.dll
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Entidad.dll
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Dato.dll
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\BI.pdb
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\BI.xml
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Entidad.pdb
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Entidad.xml
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Dato.pdb
+C:\Users\Lenovo\Desktop\Venta 747\Venta\bin\Dato.xml
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmDescanso.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmEsperaDescanso.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmExclusiones.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmVenta.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmAdicional.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmAnexos.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmBeneficiario.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmLogin.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.frmRegrabaciones.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.Resources.resources
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.exe.manifest
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.application
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.exe
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.xml
+C:\Users\Lenovo\Desktop\Venta 747\Venta\obj\Debug\APP_747.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Imagen\LogoCallsouth.bmp
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\APP_747.exe.config
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\APP_747.exe.manifest
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\APP_747.application
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\APP_747.exe
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\APP_747.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\APP_747.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\BI.dll
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Entidad.dll
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Dato.dll
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\BI.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\BI.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Entidad.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Entidad.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Dato.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\bin\Dato.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\Presentacion.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmDescanso.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmEsperaDescanso.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmExclusiones.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmVenta.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmAdicional.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmAnexos.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmBeneficiario.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmLogin.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmRegrabaciones.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.Resources.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.exe.manifest
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.application
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.exe
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Venta\obj\Debug\APP_747.frmPreventas.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Imagen\LogoCallsouth.bmp
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\APP_747.exe.config
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\APP_747.exe.manifest
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\APP_747.application
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\APP_747.exe
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\APP_747.pdb
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\APP_747.xml
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\BI.dll
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Entidad.dll
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Dato.dll
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\BI.pdb
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\BI.xml
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Entidad.pdb
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Entidad.xml
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Dato.pdb
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\bin\Dato.xml
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\Presentacion.vbprojAssemblyReference.cache
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmDescanso.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmEsperaDescanso.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmExclusiones.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmVenta.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmAdicional.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmAnexos.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmBeneficiario.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmLogin.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmRegrabaciones.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.frmPreventas.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.Resources.resources
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\Presentacion.vbproj.GenerateResource.cache
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\Presentacion.vbproj.CoreCompileInputs.cache
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.exe.manifest
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.application
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\Presentacion.vbproj.CopyComplete
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.exe
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.xml
+C:\Users\yan_2\OneDrive - CORDIAL PHONE SPA\Bases\PROYECTOS VENTAS\Venta 747\Venta\obj\Debug\APP_747.pdb

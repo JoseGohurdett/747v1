@@ -1,0 +1,285 @@
+C:\Users\mauricio.gomez\Dropbox\Proyecto Scorpio\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\mauricio.gomez\Dropbox\Proyecto Scorpio\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\mauricio.gomez\Dropbox\Proyecto Scorpio\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\Entidad.dll
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\SqlConexion.dll
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\Entidad.pdb
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\bin\Debug\Entidad.xml
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Dropbox (Anterior)\Proyecto Scorpio\Dato\obj\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\bin\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\bin\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\bin\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\bin\Debug\Entidad.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\bin\Debug\Entidad.pdb
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\bin\Debug\Entidad.xml
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Documents\Proyectos\Venta 342\Dato\obj\Debug\Dato.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Dato.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Dato.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Dato.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Entidad.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Entidad.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Entidad.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Entidad.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Entidad.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\bin\Debug\Entidad.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 170\Dato\obj\Debug\Dato.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.pdb
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.dll
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.xml
+C:\Users\yanick\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.pdb
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.dll
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.xml
+C:\Users\Mauricio-Gomez\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\bin\Debug\Entidad.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 365\Dato\obj\Debug\Dato.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\bin\Debug\Dato.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\bin\Debug\Dato.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\bin\Debug\Dato.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\bin\Debug\Entidad.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\bin\Debug\Entidad.pdb
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\bin\Debug\Entidad.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.dll
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.xml
+C:\Users\JG_Al\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 402\Dato\obj\Debug\Dato.pdb
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\bin\Debug\Dato.dll
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\bin\Debug\Dato.pdb
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\bin\Debug\Dato.xml
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\bin\Debug\Entidad.dll
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\bin\Debug\Entidad.pdb
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\bin\Debug\Entidad.xml
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.dll
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.xml
+C:\Users\JG_Al\Documents\JP\APP CAMPAÑAS\Venta 402\Dato\obj\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\bin\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\bin\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\bin\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\bin\Debug\Entidad.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\bin\Debug\Entidad.pdb
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\bin\Debug\Entidad.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Dropbox\Operaciones CordialPhone\PROGRAMACION\Venta 419\Dato\obj\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\bin\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\bin\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\bin\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\bin\Debug\Entidad.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\bin\Debug\Entidad.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\bin\Debug\Entidad.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 438\Dato\obj\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\bin\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\bin\Debug\Dato.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\bin\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\bin\Debug\Entidad.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\bin\Debug\Entidad.pdb
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\bin\Debug\Entidad.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.dll
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.xml
+C:\Users\Familia Gomez Zagal\Documents\Proyectos\Venta 441\Dato\obj\Debug\Dato.pdb
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\bin\Debug\Dato.dll
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\bin\Debug\Dato.pdb
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\bin\Debug\Dato.xml
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\bin\Debug\Entidad.dll
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\bin\Debug\Entidad.pdb
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\bin\Debug\Entidad.xml
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.Resources.resources
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.vbproj.CopyComplete
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.dll
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.xml
+E:\Muaricio Gomez\Proyectos\Venta 526\Dato\obj\Debug\Dato.pdb
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\bin\Debug\Dato.dll
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\bin\Debug\Dato.pdb
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\bin\Debug\Dato.xml
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\bin\Debug\Entidad.dll
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\bin\Debug\Entidad.pdb
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\bin\Debug\Entidad.xml
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.Resources.resources
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.vbproj.CopyComplete
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.dll
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.xml
+E:\Muaricio Gomez\Proyectos\Venta 556\Dato\obj\Debug\Dato.pdb
+E:\Proyectos\Venta 620\Dato\bin\Debug\Dato.dll
+E:\Proyectos\Venta 620\Dato\bin\Debug\Dato.pdb
+E:\Proyectos\Venta 620\Dato\bin\Debug\Dato.xml
+E:\Proyectos\Venta 620\Dato\bin\Debug\Entidad.dll
+E:\Proyectos\Venta 620\Dato\bin\Debug\Entidad.pdb
+E:\Proyectos\Venta 620\Dato\bin\Debug\Entidad.xml
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.Resources.resources
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.vbproj.CopyComplete
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.dll
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.xml
+E:\Proyectos\Venta 620\Dato\obj\Debug\Dato.pdb
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\bin\Debug\Dato.dll
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\bin\Debug\Dato.pdb
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\bin\Debug\Dato.xml
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\bin\Debug\Entidad.dll
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\bin\Debug\Entidad.pdb
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\bin\Debug\Entidad.xml
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.Resources.resources
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.vbproj.CopyComplete
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.dll
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.xml
+E:\1. CORDIAL\PROYECTOS\Venta 620\Dato\obj\Debug\Dato.pdb
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\bin\Debug\Dato.dll
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\bin\Debug\Dato.pdb
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\bin\Debug\Dato.xml
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\bin\Debug\Entidad.dll
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\bin\Debug\Entidad.pdb
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\bin\Debug\Entidad.xml
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.Resources.resources
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.CopyComplete
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.dll
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.xml
+E:\1. CORDIAL\PROYECTOS\Venta 342 Nueva\Dato\obj\Debug\Dato.pdb
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\bin\Debug\Dato.dll
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\bin\Debug\Dato.pdb
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\bin\Debug\Dato.xml
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\bin\Debug\Entidad.dll
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\bin\Debug\Entidad.pdb
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\bin\Debug\Entidad.xml
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.vbprojAssemblyReference.cache
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.dll
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.xml
+C:\Users\LenovoT450\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 342 Nueva\Dato\obj\Debug\Dato.pdb
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\bin\Debug\Dato.dll
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\bin\Debug\Dato.pdb
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\bin\Debug\Dato.xml
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\bin\Debug\Entidad.dll
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\bin\Debug\Entidad.pdb
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\bin\Debug\Entidad.xml
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.vbproj.CopyComplete
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.dll
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.xml
+C:\Users\Lenovo\Desktop\Venta 342 Nueva\Dato\obj\Debug\Dato.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\bin\Debug\Dato.dll
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\bin\Debug\Dato.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\bin\Debug\Dato.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\bin\Debug\Entidad.dll
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\bin\Debug\Entidad.pdb
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\bin\Debug\Entidad.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.dll
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.xml
+C:\Users\Lenovo\Desktop\Venta 747 - copia\Dato\obj\Debug\Dato.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\bin\Debug\Dato.dll
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\bin\Debug\Dato.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\bin\Debug\Dato.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\bin\Debug\Entidad.dll
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\bin\Debug\Entidad.pdb
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\bin\Debug\Entidad.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.Resources.resources
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.vbproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.dll
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.xml
+C:\Users\Lenovo\OneDrive - CORDIAL PHONE SPA\Proyectos\Venta 747\Dato\obj\Debug\Dato.pdb

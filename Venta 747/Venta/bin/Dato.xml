@@ -1,0 +1,103 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Dato
+</name>
+</assembly>
+<members>
+<member name="T:Dato.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Dato.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Dato.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="M:Dato.clsCiudadDA.BuscaCiudadPorIdCiudad(System.Int32)">
+ <summary>
+ Obtiene una ciudad filtrado por idCiudad
+ </summary>
+ <param name="_idCiudad"></param>
+ <returns>Entidad ciudad</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsClienteDA.GuardaDatosCliente(Entidad.eCliente,Entidad.eGestion)">
+ <summary>
+ GUARDA LOS DATOS OBTENIDOS DE LA APLICACION DE VENTAS EN LA TABLA CLI
+ </summary>
+ <param name="_cliente"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsComunaDA.listarComuna">
+ <summary>
+ Metodo para listar todas las comunas
+ </summary>
+ <returns>List(Of clsComunaEnt)</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsCorreoInvalidoDA.listarCorreosInvalidos">
+ <summary>
+ Metodo para listar todos los correos inválidos
+ </summary>
+ <returns>List(Of clsComunaEnt)</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsExclusionDA.listarExclusiones(System.Int32)">
+ <summary>
+ Metodo para listar todas las Exclusiones
+ </summary>
+ <returns>List(Of clsComunaEnt)</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsGesRegrabacionDA.Regrabaciones(System.String)">
+ <summary>
+ METODO PARA TRAER TODOS LOS DATOS DE LAS VENTAS A SER GESTIONADAS EN REGRABACIONES
+ </summary>
+ <returns>Datatable</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsGesRegrabacionDA.GuardaClienteGes(Entidad.eCliente,Entidad.eRecuperacion,Entidad.eGestion)">
+ <summary>
+ 
+ </summary>
+ <param name="_cli"></param>
+ <param name="_rec"></param>
+ <param name="_ges"></param>
+</member>
+<member name="M:Dato.clsGesRegrabacionDA.ActualizaCteSinVta(System.String,System.String,System.String,System.String)">
+ <summary>
+ PROCEDIMIENTO PARA ACTUALIZAR LOS CAMPOS EN LA TABLA CLIENTE SIN VENTA
+ </summary>
+ <param name="_seg_est"></param>
+ <param name="_est_obj"></param>
+ <param name="_call_id"></param>
+ <param name="_cli_id"></param>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsUsuarioDA.Validar_user(System.String)">
+ <summary>
+ Obtiene una usuario filtrado por usuario
+ </summary>
+ <param name="user"></param>
+ <returns>Entidad usuario</returns>
+ <remarks></remarks>
+</member>
+<member name="M:Dato.clsUsuarioDA.Validar_REG(System.String)">
+ <summary>
+ Indica si usuario es regrabador
+ </summary>
+ <param name="user"></param>
+ <returns>Entidad usuario</returns>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
